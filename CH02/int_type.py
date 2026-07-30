@@ -1,0 +1,7 @@
+print(type(12))
+print(bin(12))
+print(oct(12))
+print(hex(12))
+print('12'*4)
+print(type('12'))
+print(int('12')*4)
